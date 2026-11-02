@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MultiBrowser Pro</string>
+    <string name="browser_panel_1">Browser 1</string>
+    <string name="browser_panel_2">Browser 2</string>
+    <string name="browser_panel_3">Browser 3</string>
+    <string name="url_hint">Enter website URL (e.g. https://...)</string>
+    <string name="btn_go">Go</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_forward">Forward</string>
+    <string name="btn_refresh">Refresh</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_fullscreen">Full Screen Grid</string>
+    <string name="btn_exit_fullscreen">Exit Full Screen</string>
+    <string name="btn_layout">Layout</string>
+    <string name="btn_settings">Settings</string>
+    <string name="speed_label">Speed</string>
+    <string name="speed_applied">Speed %1$sx applied to %2$d video(s)</string>
+    <string name="speed_not_supported">Website prevented playback-speed modification or no HTML5 video detected</string>
+</resources>
